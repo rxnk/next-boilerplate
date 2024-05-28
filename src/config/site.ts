@@ -3,7 +3,7 @@ import { SiteConfig } from "@/types"
 import { env } from "@/env.mjs"
 
 export const siteConfig: SiteConfig = {
-  name: "NexJS",
+  name: "NextJS",
   author: "ethan",
   description:
     "Next.js boilerplate with shadcn/ui, prisma, icons, and typesafe env setup.",
